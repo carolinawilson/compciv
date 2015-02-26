@@ -18,8 +18,8 @@ We also want to provide the user with the top 5 hashtags used by our 5 news orgs
 We understand that our script will have to do the following: 
 
 1.	Save the tweets from each of our five news orgs daily
-2.	Toss the tweets that donâ€™t have a link (since our goal is to aggregate actual articles) 
-3.	Score each of these tweets based on our â€œinteractions formulaâ€ 
+2.	Toss the tweets that don't have a link (since our goal is to aggregate actual articles) 
+3.	Score each of these tweets based on our "interactions formula" 
 4.	Rank each tweet based on its score and sort to show only the top ten 
 5.	Repeat step 1 
 6.	Grep for hashtags (from all tweets)
